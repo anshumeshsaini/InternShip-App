@@ -19,9 +19,7 @@ This is a fully functional **React Native social media-style app** built using *
 - **Fully based on mock data** – Ready for backend integration
 - **Play Store–ready structure**
 
-## 📸 Demo
 
-▶️ A video demo is attached showcasing full functionality of the app.
 
 ## 🔧 Technologies Used
 
